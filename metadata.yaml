@@ -20,6 +20,8 @@ creator:
 description: Myth is the ivy that binds all historical experience and makes it picturesque.
   Included here are l50 myths, ranging from pranksters to a letter by John Smith about
   Pocahontas.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42390#The-Myths-of-the-North-American-Indians
 gutenberg_issued: '2013-03-22'
 gutenberg_type: Text
 identifiers:
