@@ -1,0 +1,41 @@
+_repo: The-Myths-of-the-North-American-Indians_42390
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Jack, James
+    gutenberg_agent_id: '41663'
+    url: http://www.gutenberg.org/2009/agents/41663
+covers:
+- cover_type: archival
+  image_path: 42390-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Spence, Lewis
+    alias: Spence, James Lewis Thomas Chalmers
+    birthdate: 1874
+    deathdate: 1955
+    gutenberg_agent_id: '5707'
+    url: http://www.gutenberg.org/2009/agents/5707
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
+description: Myth is the ivy that binds all historical experience and makes it picturesque.
+  Included here are l50 myths, ranging from pranksters to a letter by John Smith about
+  Pocahontas.
+gutenberg_issued: '2013-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indian mythology -- North America'
+- !lcsh 'Indians of North America -- Folklore'
+tableOfContents: Divisions, customs, and history of the race -- The mythologies of
+  the North American Indians -- Algonquian myths and legends -- Iroquois myths and
+  legends -- Sioux myths and legends -- Myths and legends of the Pawnees -- Myths
+  And legends of the northern and north-western Indians -- Bibliography -- Glossary
+  and index.
+title: The Myths of the North American Indians
+url: http://www.gutenberg.org/ebooks/42390
